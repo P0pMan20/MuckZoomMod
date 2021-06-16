@@ -1,6 +1,7 @@
 # MuckZoomMod
 A zoom mod for Muck by DaniDev.
 
+![Image showing player zooming in and out](/images/Peek)
 
 ## Usage
 Press V to zoom in, use scroll wheel to change zoom amount
